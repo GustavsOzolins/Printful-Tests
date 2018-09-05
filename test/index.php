@@ -75,13 +75,11 @@ require 'config.php';
 				</div>
 			</div>
 		</div>
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+
 		<script src="js/jquery-1.10.2.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
-
-		<!-- Include all compiled plugins (below), or include individual files as needed -->
 		<script src="js/jquery.validate.min.js"></script>
-  <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+ 		<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 <!-- Checks to see if the name is valid. If it hasnt been used before -->
 		<script>
 			$(document).ready(function() {
